@@ -8,15 +8,13 @@ Bem-vindo ao repositório oficial da equipe de robótica PatoBots!
 ## Modalidades que Competimos
 
 ### Controlados
-Competimos em batalhas emocionantes de robôs de combate, com categorias de peso específicas:
-- 
+  - **(colocar as categorias de controlados)**
 
 
 ### Autômatos
-Desenvolvemos robôs autônomos para diversas competições:
-- **Seguidor de Linha**
-- **Sumô**
-- **Trekking**
+  - **Seguidor de Linha**
+  - **Sumô**
+  - **Trekking**
 
 ---
 
