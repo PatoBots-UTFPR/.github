@@ -45,7 +45,7 @@ Nossa equipe é formada por membros dedicados, com diferentes responsabilidades 
 
 ---
 
-## Contribuições
+## Conpetições
 
 - **ROBOCORE:**
 
