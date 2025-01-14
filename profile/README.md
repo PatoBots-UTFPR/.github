@@ -25,7 +25,13 @@ Nossa equipe é formada por membros dedicados, com diferentes responsabilidades 
 
 ### Presidência
 - **Presidente:** [Nome do Presidente]  
-- **Vice-Presidente:** [Nome do Vice-Presidente]  
+- **Vice-Presidente:** [Nome do Vice-Presidente]
+  
+- **Lider Gestão:**
+- **Lider Financeiro:**
+- **Lider Marketing:**
+- **Lider Controlados:**
+- **Lider Automatos:**
 
 ### Membros
 | Nome                | Área                         | Divisão                 | Curso              |
@@ -34,7 +40,7 @@ Nossa equipe é formada por membros dedicados, com diferentes responsabilidades 
 | [Nome do Membro 2] | Gestão                        | |
 | [Nome do Membro 3] | Financeiro                    | |
 | [Nome do Membro 4] | Controlados                   | |
-| Gabriel Maurina    | Automato                      | Lider Seguidor de Linha | Eng. da Computação |
+| Gabriel Maurina    | Automato                      | Seguidor de Linha | Eng. da Computação |
 | [Nome do Membro 5] | Automato                      | |
 
 ### Orientadores
