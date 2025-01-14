@@ -24,8 +24,8 @@ Bem-vindo ao repositório oficial da equipe de robótica PatoBots!
 Nossa equipe é formada por membros dedicados, com diferentes responsabilidades e áreas de atuação.
 
 ### Presidência
-- **Presidente:** [Nome do Presidente]  
-- **Vice-Presidente:** [Nome do Vice-Presidente]
+- **Presidente:** Carla Sabrina Silva Portela 
+- **Vice-Presidente:** Lucas Antunes Alves 
   
 - **Lider Gestão:**
 - **Lider Financeiro:**
@@ -34,14 +34,21 @@ Nossa equipe é formada por membros dedicados, com diferentes responsabilidades 
 - **Lider Automatos:**
 
 ### Membros
-| Nome                | Área                         | Divisão                 | Curso              |
-|---------------------|------------------------------|-------------------------|--------------------|
-| [Nome do Membro 1] | Marketing                     | |
-| [Nome do Membro 2] | Gestão                        | |
-| [Nome do Membro 3] | Financeiro                    | |
-| [Nome do Membro 4] | Controlados                   | |
-| Gabriel Maurina    | Automato                      | Seguidor de Linha | Eng. da Computação |
-| [Nome do Membro 5] | Automato                      | |
+| Nome                | Área        | Divisão           | Curso              |
+|---------------------|-------------|-------------------|--------------------|
+| Dalila Camargo      | Marketing   |
+|                     | Gestão      |
+|                     | Financeiro  |
+| Gabriel Maurina     | Automato    | Seguidor de Linha | Eng. da Computação |
+| Lucas Alves         |
+| Yuri Gabriel        |
+| Jean Tiecher        |
+| Kelvyn Augusto      |
+| Bruno Tiecher       |
+| Vinicius ..         | 
+| Joao Ferreira       |
+| Fabio Akira         | 
+|
 
 ### Orientadores
 - **Orientador(a):** [Nome do Orientador]
