@@ -51,15 +51,15 @@ Nossa equipe é formada por membros dedicados, com diferentes responsabilidades 
 |
 
 ### Orientadores
-- **Orientador(a):** [Nome do Orientador]
-- **Orientador(a):** [Nome do Orientador]
-- **Orientador(a):** [Nome do Orientador]   
+- **Orientador(a):** Cézar Torrico
+- **Orientador(a):** Fabio Favarim
+- **Orientador(a):** Marcio Nakaura
 
 ---
 
 ## Conpetições 2025
 
-- **ROBOCORE:** 15 a 21 de julho de 2025 ... Descrever mais a competição, oque categorias pretendias plano, etc...
+- **ROBOCORE:** 15 a 21 de julho de 2025 ... Descrever mais a competição, que categorias pretendida, plano, etc...
 - **:**
 
 ---
@@ -68,7 +68,7 @@ Nossa equipe é formada por membros dedicados, com diferentes responsabilidades 
 - **Instagram:**
 - **Email:**
 - **:**
-- 
+
 ---
 
 ## Apoiadores
