@@ -7,8 +7,11 @@ Bem-vindo ao repositório oficial da equipe de robótica PatoBots!
 
 ## Modalidades que Competimos
 
-### Controlados
-  - **(colocar as categorias de controlados)**
+### Rádio Controlados
+  - **Hockey**
+  - **Sumô**
+  - **Combate Antweight**
+  - **Combate fairyweight**
 
 
 ### Autômatos
@@ -19,58 +22,48 @@ Bem-vindo ao repositório oficial da equipe de robótica PatoBots!
 
 ---
 
-## Estrutura da Equipe
-
-Nossa equipe é formada por membros dedicados, com diferentes responsabilidades e áreas de atuação.
+## Estrutura da Equipe 2026/1
 
 ### Presidência
-- **Presidente:** Carla Sabrina Silva Portela 
+- **Presidente:** Caroline Morelli da Silveira 
 - **Vice-Presidente:** Lucas Antunes Alves 
   
-- **Lider Gestão:**
-- **Lider Financeiro:**
-- **Lider Marketing:**
-- **Lider Controlados:**
-- **Lider Automatos:**
+- **Lider da célula do Seguidor de Linha: Kelvyn Augusto Waltrick Nonato**
+- **Lider da célula do Sumô: Jean Tiecher de Carvalho**
+- **Lider da célula de Trekking: Caroline Morelli da Silveira**
+- **Lider da célula de Combate: Vinicios José Frezza**
+- **Lider da célula de Hockey: Lucas Antunes Alves**
 
 ### Membros
-| Nome                | Área        | Divisão           | Curso              |
-|---------------------|-------------|-------------------|--------------------|
-| Dalila Camargo      | Marketing   |
-|                     | Gestão      |
-|                     | Financeiro  |
-| Gabriel Maurina     | Automato    | Seguidor de Linha | Eng. da Computação |
-| Lucas Alves         |
-| Yuri Gabriel        |
-| Jean Tiecher        |
-| Kelvyn Augusto      |
-| Bruno Tiecher       |
-| Vinicius ..         | 
-| Joao Ferreira       |
-| Fabio Akira         | 
-|
+- Amanda Zippin Saurin
+- Bruno Tiecher
+- Caroline Morelli da Silveira
+- Cinara Jamile Pott Siega 
+- Felipe de Souza
+- Gabriel Maurina Amaral
+- Gabriel Sueira Folly 
+- Jean Tiecher de Carvalho
+- Júlia Salvi Gonçalves
+- Kelvyn Augusto Waltrick Nonato
+- Lucas Antunes Alves
+- Mateus Ruaro Busato
+- Rafael Boldrini Demezuk
+- Vinicios J. Frezza
+- Vitor Graeser Kassulke
 
 ### Orientadores
-- **Orientador(a):** Cézar Torrico
+- **Orientador(a):** César Torrico
 - **Orientador(a):** Fabio Favarim
 - **Orientador(a):** Marcio Nakaura
 
 ---
 
-## Conpetições 2025
-
-- **ROBOCORE:** 15 a 21 de julho de 2025 ... Descrever mais a competição, que categorias pretendida, plano, etc...
-- **:**
-
----
-
 ## Contato
-- **Instagram:**
-- **Email:**
-- **:**
+- **Instagram: @patobots**
+- **Email: patobots@gmail.com**
 
 ---
 
 ## Apoiadores
 
-Agradecemos aos nossos patrocinadores e apoiadores que tornam possível nossa participação nas competições. POR ENQUANTO NENHUM SKSKSK
+Agradecemos aos nossos patrocinadores e apoiadores que tornam possível nossa participação nas competições.
